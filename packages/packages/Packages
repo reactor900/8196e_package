@@ -1,0 +1,18 @@
+Package: etherwake
+Version: 1.09-3
+Depends: libc
+Source: feeds/packages/net/etherwake
+Section: net
+Maintainer: Peter Wagner <tripolar@gmx.at>
+Architecture: realtek
+Installed-Size: 5144
+Filename: etherwake_1.09-3_realtek.ipk
+Size: 5887
+MD5Sum: 67febeb498a5a4654119590bdaa0cb9a
+SHA256sum: dc5d02aede4dffe020232beea6c906e5c29f4fb51297d3b0fcf9e795ee021dee
+Description:  You can wake up WOL compliant Computers which have been powered down to
+ sleep mode or start WOL compliant Computers with a BIOS feature.
+ WOL is an abbreviation for Wake-on-LAN. It is a standard that allows you
+ to turn on a computer from another location over a network connection.
+ ether-wake also supports WOL passwords.
+
